@@ -1,0 +1,6 @@
+fastapi
+sentence-transformers
+yfinance
+bs4
+curl-cffi
+uvicorn
