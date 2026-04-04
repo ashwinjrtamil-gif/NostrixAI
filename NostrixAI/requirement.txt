@@ -1,0 +1,5 @@
+fastapi
+curl_cffi
+beautifulsoup4
+sentence-transformers
+yfinance
